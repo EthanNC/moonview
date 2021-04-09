@@ -1,0 +1,82 @@
+{
+  "coins": [
+    {
+      "item": {
+        "id": "splyt",
+        "name": "Splyt",
+        "symbol": "SHOPX",
+        "market_cap_rank": 431,
+        "thumb": "https://assets.coingecko.com/coins/images/14600/thumb/Splyt_Logo.png?1617196503",
+        "large": "https://assets.coingecko.com/coins/images/14600/large/Splyt_Logo.png?1617196503",
+        "score": 0
+      }
+    },
+    {
+      "item": {
+        "id": "rally-2",
+        "name": "Rally",
+        "symbol": "RLY",
+        "market_cap_rank": 275,
+        "thumb": "https://assets.coingecko.com/coins/images/12843/thumb/image.png?1611212077",
+        "large": "https://assets.coingecko.com/coins/images/12843/large/image.png?1611212077",
+        "score": 1
+      }
+    },
+    {
+      "item": {
+        "id": "shopping-io",
+        "name": "Shopping.io",
+        "symbol": "SPI",
+        "market_cap_rank": 201,
+        "thumb": "https://assets.coingecko.com/coins/images/13537/thumb/vd4KuYIE_400x400.png?1609578616",
+        "large": "https://assets.coingecko.com/coins/images/13537/large/vd4KuYIE_400x400.png?1609578616",
+        "score": 2
+      }
+    },
+    {
+      "item": {
+        "id": "get-token",
+        "name": "GET Protocol",
+        "symbol": "GET",
+        "market_cap_rank": 306,
+        "thumb": "https://assets.coingecko.com/coins/images/1927/thumb/GET_Protocol.png?1552893230",
+        "large": "https://assets.coingecko.com/coins/images/1927/large/GET_Protocol.png?1552893230",
+        "score": 3
+      }
+    },
+    {
+      "item": {
+        "id": "ethernity-chain",
+        "name": "Ethernity Chain",
+        "symbol": "ERN",
+        "market_cap_rank": 158,
+        "thumb": "https://assets.coingecko.com/coins/images/14238/thumb/ethernity_logo.png?1615189750",
+        "large": "https://assets.coingecko.com/coins/images/14238/large/ethernity_logo.png?1615189750",
+        "score": 4
+      }
+    },
+    {
+      "item": {
+        "id": "binancecoin",
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "market_cap_rank": 3,
+        "thumb": "https://assets.coingecko.com/coins/images/825/thumb/binance-coin-logo.png?1547034615",
+        "large": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png?1547034615",
+        "score": 5
+      }
+    },
+    {
+      "item": {
+        "id": "rarible",
+        "name": "Rarible",
+        "symbol": "RARI",
+        "market_cap_rank": 282,
+        "thumb": "https://assets.coingecko.com/coins/images/11845/thumb/Rari.png?1594946953",
+        "large": "https://assets.coingecko.com/coins/images/11845/large/Rari.png?1594946953",
+        "score": 6
+      }
+    }
+  ],
+  "exchanges": []
+}
