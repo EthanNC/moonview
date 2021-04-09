@@ -4,7 +4,6 @@ import {
   dedupExchange,
   cacheExchange,
   fetchExchange,
-  Client,
 } from "urql";
 import { devtoolsExchange } from "@urql/devtools";
 const isServerSide = typeof window === "undefined";
