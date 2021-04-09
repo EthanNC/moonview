@@ -1,22 +1,10 @@
 
-import { Fragment, useEffect, useState } from 'react'
+import {useEffect, useState } from 'react'
 import { Listbox, Transition} from '@headlessui/react'
 import { useGetCoinsQuery } from 'src/generated/graphql';
 import {useRouter} from 'next/router'
 
 
-const people = [
-    "Wade Cooper",
-    "Arlene Mccoy",
-    "Devon Webb",
-    "Tom Cook",
-    "Tanya Fox",
-    "Hellen Schmidt",
-    "Caroline Schultz",
-    "Mason Heaney",
-    "Claudie Smitham",
-    "Emil Schaefer"
-  ];
 
 
 const MarketDropdown = () => {

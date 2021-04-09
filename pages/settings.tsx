@@ -2,7 +2,7 @@ import Layout from "components/Layout";
 import { useGetPingQuery } from "src/generated/graphql";
 
 const Settings = () => {
-  const [{ data, fetching, error }] = useGetPingQuery();
+  const [{ data, fetching }] = useGetPingQuery();
 
   if (fetching) return <Layout>Fetching</Layout>;
   return (
